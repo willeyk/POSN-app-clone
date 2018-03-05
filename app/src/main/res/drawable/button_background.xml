@@ -39,8 +39,8 @@
             <!-- view background color -->
             <gradient
                 android:angle="270"
-                android:endColor="#2f6699"
-                android:startColor="#3b5998" />
+                android:endColor="#6842f4"
+                android:startColor="#6842f4" />
 
             <!-- view border color and width -->
             <stroke
