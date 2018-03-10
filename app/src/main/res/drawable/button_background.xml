@@ -40,7 +40,7 @@
             <gradient
                 android:angle="270"
                 android:endColor="#6842f4"
-                android:startColor="#6842f4" />
+                android:startColor="#33FFE6" />
 
             <!-- view border color and width -->
             <stroke
